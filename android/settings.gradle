@@ -1,0 +1,3 @@
+rootProject.name = 'ReactUsers'
+
+include ':app'
